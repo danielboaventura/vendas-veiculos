@@ -64,4 +64,23 @@ MySQL
 Bootstrap 5
 
 
+## 📸 Prints das telas
+
+### Área Pública
+`prints/home.jpeg`
+`prints/veiculos.jpeg`
+`prints/detalhesVeiculo.jpeg`
+
+### Área Administrativa
+`prints/adminCores.jpeg`
+`prints/adminMarcas.jpeg`
+`prints/adminModelos`
+`prints/adminVeiculos`
+`prints/areaAdmin`
+`prints/veiculosExcluidos.jpeg`
+`prints/editarVeiculos.jpeg`
+`prints/editarModelo.jpeg`
+`prints/editarMarcas.jpeg`
+`prints/cadastroVeiculos.jpeg`
+
 Feito com ❤️ por Daniel Boaventura  
