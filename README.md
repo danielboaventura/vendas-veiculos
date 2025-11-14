@@ -66,21 +66,52 @@ Bootstrap 5
 
 ## 📸 Prints das telas
 
-### Área Pública
-`prints/home.jpeg`
-`prints/veiculos.jpeg`
-`prints/detalhesVeiculo.jpeg`
+---
 
-### Área Administrativa
-`prints/adminCores.jpeg`
-`prints/adminMarcas.jpeg`
-`prints/adminModelos`
-`prints/adminVeiculos`
-`prints/areaAdmin`
-`prints/veiculosExcluidos.jpeg`
-`prints/editarVeiculos.jpeg`
-`prints/editarModelo.jpeg`
-`prints/editarMarcas.jpeg`
-`prints/cadastroVeiculos.jpeg`
+# 🟦 Área Pública
+
+### 🏠 Home
+![Home](prints/home.jpeg)
+
+### 🚗 Lista de Veículos
+![Veículos](prints/veiculos.jpeg)
+
+### 🔍 Detalhes do Veículo
+![Detalhes do Veículo](prints/detalhesVeiculo.jpeg)
+
+---
+
+# 🟧 Área Administrativa
+
+### 🎨 Gerenciar Cores
+![Admin Cores](prints/adminCores.jpeg)
+
+### 🏷️ Gerenciar Marcas
+![Admin Marcas](prints/adminMarcas.jpeg)
+
+### 🚘 Gerenciar Modelos
+![Admin Modelos](prints/adminModelos.jpeg)
+
+### 📦 Gerenciar Veículos
+![Admin Veículos](prints/adminVeiculos.jpeg)
+
+### 🖥️ Área do Admin
+![Área Admin](prints/areaAdmin.jpeg)
+
+### 🗑️ Veículos Excluídos
+![Veículos Excluídos](prints/veiculosExcluidos.jpeg)
+
+### ✏️ Editar Veículo
+![Editar Veículo](prints/editarVeiculos.jpeg)
+
+### ✏️ Editar Modelo
+![Editar Modelo](prints/editarModelo.jpeg)
+
+### ✏️ Editar Marca
+![Editar Marca](prints/editarMarcas.jpeg)
+
+### ➕ Cadastro de Veículos
+![Cadastro de Veículos](prints/cadastroVeiculos.jpeg)
+
 
 Feito com ❤️ por Daniel Boaventura  
